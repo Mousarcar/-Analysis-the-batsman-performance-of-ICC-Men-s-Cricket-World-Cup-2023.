@@ -1,4 +1,4 @@
-# Analysing the batsman performance of ICC Men's Cricket World Cup 2023.
+# Analyzing the batsman performance of ICC Men's Cricket World Cup 2023.
 
 ## Introduction
 
